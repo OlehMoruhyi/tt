@@ -93,7 +93,7 @@
                     ?>
 
 
-                    <form id = "huilo" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST"><b4>
+                    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST"><b4>
                             <div class="block_find">
                                 <input type="text" name="find" placeholder="Пошук">
                                 <button type="submit"></button>
